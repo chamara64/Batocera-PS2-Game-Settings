@@ -1,6 +1,6 @@
 # Batocera PCSX2 custom-configs 
 
-Script to save and automatically load separate configs for individual games on the PCSX2 emulator for Batocera Linux. 
+This is a script to save and automatically load separate configs for individual games on the PCSX2 emulator for Batocera Linux. 
 
 # Installation
 Simply copy the "pcsx2_custom_configs" folder to the root of the Batocera "SHARE" partition (along side the bios, roms, themes etc. directories). Thats it.
