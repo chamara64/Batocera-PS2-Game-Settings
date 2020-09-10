@@ -13,10 +13,11 @@ Step 3: That it youre done! There is no step 3.
 
 
 # Configuring individual games
-Navigate to "pcsx2_custom_configs/games/[your game]" directory and execute the “pcsx2-custom-config” file. Changes in settings made here will not effect other games or the default pcsx2 settings in the system.
+Navigate to "pcsx2_custom_configs/games/[your game]" directory and execute the “pcsx2-custom-config” file wich will open up pcsx2. Changes in settings made here will not effect other games or the default pcsx2 settings in the system.
 
 # Uninstallation 
-Simplay delete the "pcsx2_custom_configs" directory and the following lines from the "system/custom.sh" file
+Simplay delete the "pcsx2_custom_configs" directory and remove the following lines from the "system/custom.sh" file
 
-cd /userdata/pcsx2_custom_configs
-python start.py
+*cd /userdata/pcsx2_custom_configs*
+*python start.py*
+
