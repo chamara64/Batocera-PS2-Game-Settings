@@ -1,5 +1,5 @@
 # Batocera PCSX2 custom-configs 
-This script will automatically create separate configuration files for individual roms on the PCSX2 emulator for Batocera Linux, as well as enable Batocera to run those games automatically with thier own settings through the EmulationStation front end menu, effectively putting an END to the pain of changing PCSX2 settings every time you want to switch to a different game. tested with 5.25 and 5.26.
+This script will automatically create separate configuration files for individual roms on the PCSX2 emulator for Batocera Linux, as well as make it run those games through the EmulationStation front end menu with thier own settings automatically loaded, effectively putting an END to the pain of changing PCSX2 settings every time you want to switch to a different game. tested with 5.25 and 5.26.
 
 # Installation
 Step 1: copy the "pcsx2_custom_configs" folder to the root of the Batocera "SHARE" partition (along side the bios, roms, themes etc. directories). NOTE: If you haven't set up and configured the PCSX2 settings on your Batocera installation already, do that before continuing to step 2. 
