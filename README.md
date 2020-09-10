@@ -16,5 +16,6 @@ Navigate to "pcsx2_custom_configs/games/[your game]" directory and execute the â
 
 # uninstallation 
 
-*cd /userdata/pcsx2_custom_configs
-python start.py* 
+
+[cd /userdata/pcsx2_custom_configs
+python start.py]
