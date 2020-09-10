@@ -23,4 +23,4 @@ and remove the following lines from the "system/custom.sh" file.
 *python start.py*
 
 # known issue
-if a game refuses to start and reverts back to the EmulaionStation menu, try deleting its folder in "pcsx2_custom_configs/games/" and start the game again.
+If a game refuses to start and reverts back to the EmulaionStation menu, try deleting its folder in "pcsx2_custom_configs/games/" and start the game again.
