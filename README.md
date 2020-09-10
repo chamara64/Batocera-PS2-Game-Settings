@@ -19,5 +19,6 @@ Navigate to "pcsx2_custom_configs/games/[your game]" directory and execute the â
 Simplay delete the "pcsx2_custom_configs" directory and remove the following lines from the "system/custom.sh" file
 
 *cd /userdata/pcsx2_custom_configs*
+
 *python start.py*
 
