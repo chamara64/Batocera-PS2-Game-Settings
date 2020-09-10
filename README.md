@@ -4,7 +4,7 @@ This script will automatically create separate configuration files for individua
 # Installation
 Step 1: copy the "pcsx2_custom_configs" folder to the root of the Batocera "SHARE" partition (along side the bios, roms, themes etc. directories). NOTE: If you haven't set up and configured the PCSX2 settings on your Batocera installation already, do that before continuing to step 2. 
 
-Step 2: Execute the "install.py" file.
+Step 2: Start Batocera and execute the "install.py" file.
 
 Step 3: That it you're done! There is no step 3.
 
