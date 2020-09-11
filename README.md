@@ -11,7 +11,7 @@ Step 3: That it you're done! There is no step 3.
 # Configuring individual games
 Navigate to "pcsx2_custom_configs/games/[your game]" directory and execute the “pcsx2-custom-config” file which will open up pcsx2. Changes in settings made here will not effect other games or the default pcsx2 settings in the system. 
 
-*Testing tip: The easiest way to see if this works is to pick a game drastically change its shader saturation or contrast. the difference in settings from the other games should be obvious pretty much form the PS2 boot screen*
+*Testing tip: The easiest way to see if this works is to pick a game and drastically change its shader saturation or contrast. The difference in settings from the other games should be obvious pretty much form the PS2 boot screen*
 
 # Uninstalling 
 Delete the "pcsx2_custom_configs" directory 
